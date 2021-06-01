@@ -25,6 +25,15 @@
     color: green;
 }
 
+
+/* header */
+
+header {
+    position: fixed;
+    z-index: 1;
+}
+
+
 /* main */
 
 main .full-page {
@@ -38,5 +47,5 @@ main .full-page {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
-    font-size: 40px;;
+    font-size: 25px;;
 }
